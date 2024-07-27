@@ -1,0 +1,8 @@
+{
+  "packs": [
+    "PEPEtop.json",
+    "KeanuReeves.json",
+    "OnlyCat5.json"
+  ],
+  "homeserver_url": "https://matrix.avi.pw"
+}
